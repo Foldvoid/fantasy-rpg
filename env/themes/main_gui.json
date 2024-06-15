@@ -1,0 +1,44 @@
+{
+  "#main_label":
+  {
+    "colours":
+    {
+      "normal_text": "#ECCA45",
+      "text_shadow": "#545454"
+    },
+    "font":
+    {
+      "name": "Arial",
+      "size": "42",
+      "bold": "3",
+      "regular_path": "C:/Windows/Fonts/Arial.ttf"
+    }
+  },
+  "vertical_scroll_bar":
+  {
+    "colors":
+    {
+      "normal_bg": "#EC2A92",
+      "dark_bg": "#FFFFFF"
+    }
+  },
+  "#main_button":
+  {
+      "colours":
+      {
+          "normal_text": "#121212",
+          "normal_bg": "#ACA97E",
+          "hovered_text": "#121212",
+          "hovered_bg": "#ACA99C",
+          "active_text": "#121212",
+          "active_bg": "#DC501A"
+      },
+      "misc":
+      {
+          "shape": "rounded_rectangle",
+          "shape_corner_radius": "2",
+          "border_width": "2",
+          "shadow_width": "2"
+      }
+  }
+}

@@ -1,0 +1,357 @@
+{
+    "#skill_atk_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Attack.png"
+            }
+        }
+    },
+    "#skill_valiant-slash_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill1.png"
+            }
+        }
+    },
+    "#skill_aura-cleave_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill2.png"
+            }
+        }
+    },
+    "#skill_astral-shred_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill3.png"
+            }
+        }
+    },
+    "#skill_spectral-duel_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill4.png"
+            }
+        }
+    },
+    "#skill_vanguards-stance_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill5.png"
+            }
+        }
+    },
+    "#skill_ancestors-protection_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill6.png"
+            }
+        }
+    },
+    "#skill_turtle-reflex_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill7.png"
+            }
+        }
+    },
+    "#skill_aggression_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill8.png"
+            }
+        }
+    },
+    "#skill_blood-thirst_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill9.png"
+            }
+        }
+    },
+    "#skill_true-vigor_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Skill10.png"
+            }
+        }
+    },
+    "#skill_transcendence_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/Ult.png"
+            }
+        }
+    },
+    "#skill_aggression-boost_warlord":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Warlord/aggression.png"
+            }
+        }
+    },
+
+
+    "#skill_atk_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Attack.png"
+            }
+        }
+    },
+    "#skill_psychic-wave_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill1.png"
+            }
+        }
+    },
+    "#skill_cloud-mind_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill2.png"
+            }
+        }
+    },
+    "#skill_tears-ripple_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill3.png"
+            }
+        }
+    },
+    "#skill_diamond-dust_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill4.png"
+            }
+        }
+    },
+    "#skill_arcane-barrier_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill5.png"
+            }
+        }
+    },
+    "#skill_aegis-shield_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill6.png"
+            }
+        }
+    },
+    "#skill_third-eye_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill7.png"
+            }
+        }
+    },
+    "#skill_blood-magic_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill8.png"
+            }
+        }
+    },
+    "#skill_arcane-frenzy_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill9.png"
+            }
+        }
+    },
+    "#skill_true-spirit_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Skill10.png"
+            }
+        }
+    },
+    "#skill_transcendence_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/Ult.png"
+            }
+        }
+    },
+
+    "#skill_blood-magic-boost_sourcerer":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Sourcerer/blood-magic.png"
+            }
+        }
+    },
+
+    "#skill_atk_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Attack.png"
+            }
+        }
+    },
+    "#skill_analize_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill1.png"
+            }
+        }
+    },
+    "#skill_disarm_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill2.png"
+            }
+        }
+    },
+    "#skill_recreate_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill3.png"
+            }
+        }
+    },
+    "#skill_rose-thorn_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill4.png"
+            }
+        }
+    },
+    "#skill_better-position_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill5.png"
+            }
+        }
+    },
+    "#skill_intimidate_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill6.png"
+            }
+        }
+    },
+    "#skill_snake-eyes_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill7.png"
+            }
+        }
+    },
+    "#skill_perception_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill8.png"
+            }
+        }
+    },
+    "#skill_deadly-composition_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill9.png"
+            }
+        }
+    },
+    "#skill_true-speed_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Skill10.png"
+            }
+        }
+    },
+    "#skill_transcendence_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/Ult.png"
+            }
+        }
+    },
+    "#skill_perception-boost_hunter":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "data/gfx/GUI/icons/CharacterSkills/Hunter/perception.png"
+            }
+        }
+    }
+}

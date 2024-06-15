@@ -1,0 +1,47 @@
+{
+  "label":
+  {
+    "colours":
+    {
+      "normal_text": "#111111"
+    },
+    "font":
+    {
+      "name": "Arial",
+      "size": "16",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Windows/Fonts/Arial.ttf"
+    }
+  },
+  "#label_start":
+  {
+    "colours":
+    {
+      "normal_text": "#111111"
+    },
+    "font":
+    {
+      "name": "Arial",
+      "size": "20",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Windows/Fonts/Arial.ttf"
+    }
+  },
+  "#label_level":
+  {
+    "colours":
+    {
+      "normal_text": "#111111"
+    },
+    "font":
+    {
+      "name": "Arial",
+      "size": "20",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Windows/Fonts/Arial.ttf"
+    }
+  }
+}

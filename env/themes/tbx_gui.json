@@ -1,0 +1,23 @@
+{
+  "#tbx_window":
+  {
+    "colours":
+    {
+      "normal_text": "#551111",
+      "dark_bg": "#EFE6AD"
+    },
+    "font":
+    {
+      "name": "Arial",
+      "size": "16",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Windows/Fonts/Arial.ttf"
+    },
+    "misc":
+    {
+      "border_width": "1",
+      "shadow_width": "0"
+    }
+  }
+}

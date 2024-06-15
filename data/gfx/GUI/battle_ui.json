@@ -1,0 +1,106 @@
+{
+     "#health_bar":
+     {
+         "colours":
+         {
+             "normal_text": "#ACDAAC",
+             "text_shadow": "#000000",
+             "normal_border": "#DDDDDD",
+             "filled_bar": "#FA6041,#DF3522,180",
+             "unfilled_bar": "#CCCCCC"
+         },
+         "font":
+         {
+             "name": "Roboto-Regular",
+             "size": "12",
+             "bold": "0",
+             "italic": "1",
+           "regular_resource": {"package": "data.gfx.GUI.fonts", "resource": "Roboto-Regular.ttf"}
+         },
+         "misc":
+         {
+           "shape": "rounded_rectangle",
+           "shape_corner_radius": "10",
+           "border_width": "2",
+           "shadow_width": "2"
+         }
+     },
+    "#arcana_bar":
+    {
+        "colours":
+         {
+             "normal_text": "#ACDAAC",
+             "text_shadow": "#111111",
+             "normal_border": "#DDDDDD",
+             "filled_bar": "#5289FF,#294973,180",
+             "unfilled_bar": "#CCCCCC"
+         },
+         "font":
+         {
+             "name": "Roboto-Regular",
+             "size": "12",
+             "bold": "0",
+             "italic": "1",
+           "regular_resource": {"package": "data.gfx.GUI.fonts", "resource": "Roboto-Regular.ttf"}
+         },
+         "misc":
+         {
+           "shape": "rounded_rectangle",
+           "shape_corner_radius": "10",
+           "border_width": "2",
+           "shadow_width": "2"
+         }
+    },
+      "#spirit_bar":
+    {
+        "colours":
+         {
+             "normal_text": "#ACDAAC",
+             "text_shadow": "#111111",
+             "normal_border": "#DDDDDD",
+             "filled_bar": "#5AE100,#5AA200,180",
+             "unfilled_bar": "#CCCCCC"
+         },
+         "font":
+         {
+             "name": "Roboto-Regular",
+             "size": "12",
+             "bold": "0",
+             "italic": "1",
+           "regular_resource": {"package": "data.gfx.GUI.fonts", "resource": "Roboto-Regular.ttf"}
+         },
+         "misc":
+         {
+           "shape": "rounded_rectangle",
+           "shape_corner_radius": "10",
+           "border_width": "2",
+           "shadow_width": "2"
+         }
+    },
+    "#monster_health_bar":
+     {
+         "colours":
+         {
+             "normal_text": "#acdaac",
+             "text_shadow": "#000000",
+             "normal_border": "#DDDDDD",
+             "filled_bar": "#ff1abf,#881ab8,180",
+             "unfilled_bar": "#CCCCCC"
+         },
+         "font":
+         {
+             "name": "Roboto-Regular",
+             "size": "12",
+             "bold": "0",
+             "italic": "1",
+           "regular_resource": {"package": "data.gfx.GUI.fonts", "resource": "Roboto-Regular.ttf"}
+         },
+         "misc":
+         {
+           "shape": "rounded_rectangle",
+           "shape_corner_radius": "15",
+           "border_width": "2",
+           "shadow_width": "2"
+         }
+     }
+}

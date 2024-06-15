@@ -1,0 +1,33 @@
+{
+  "#btn_army":
+  {
+      "images":
+      {
+          "normal_image": {
+              "path": "data/gfx/GUI/pics/icons/army1.png"
+          }
+      }
+  },
+  "#tbx_army":
+  {
+    "colours":
+    {
+      "normal_text": "#551111",
+      "dark_bg": "#EFE6AD"
+    },
+    "font":
+    {
+      "name": "Arial",
+      "size": "16",
+      "bold": "1",
+      "italic": "0",
+      "regular_path": "C:/Windows/Fonts/Arial.ttf"
+    },
+    "misc":
+    {
+      "border_width": "1",
+      "shadow_width": "0",
+      "text_vert_alignment": "center"
+    }
+  }
+}

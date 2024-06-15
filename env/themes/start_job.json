@@ -1,0 +1,62 @@
+{
+  "#job_top_title":
+  {
+
+  },
+  "#start_world_size":
+  {
+    "colours":
+    {
+      "dark_bg": "#EFE6AD"
+    }
+  },
+  "#job_warlord":
+  {
+    "images":
+    {
+      "normal_image":
+      {
+          "path": "data/gfx/GUI/pics/JobWarlord.png"
+      },
+      "selected_image":
+      {
+          "path": "data/gfx/GUI/pics/JobWarlordSelected.png"
+      }
+    }
+  },
+  "#job_sourcerer":
+  {
+    "images":
+    {
+        "normal_image": {
+            "path": "data/gfx/GUI/pics/JobSourcerer.png"
+        },
+        "selected_image":
+        {
+            "path": "data/gfx/GUI/pics/JobSourcererSelected.png"
+        }
+    }
+  },
+  "#job_hunter":
+  {
+    "images":
+    {
+        "normal_image": {
+            "path": "data/gfx/GUI/pics/JobHunter.png"
+        },
+        "selected_image":
+        {
+            "path": "data/gfx/GUI/pics/JobHunterSelected.png"
+        }
+    }
+  },
+  "#done":
+  {
+    "images":
+    {
+        "normal_image": {
+            "path": "data/gfx/GUI/pics/Done.png"
+        }
+    }
+  }
+}

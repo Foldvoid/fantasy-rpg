@@ -1,0 +1,25 @@
+{
+  "panel":
+  {
+    "colours":
+    {
+      "dark_bg": "#EFE6AD"
+    }
+  },
+  "panel.label":
+  {
+    "colours":
+    {
+      "normal_text": "#551111"
+    }
+  },
+  "#claim":
+  {
+    "images":
+    {
+        "normal_image": {
+          "path": "data/gfx/GUI/pics/Claim.png"
+        }
+    }
+  }
+}
